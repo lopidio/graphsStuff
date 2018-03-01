@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1310622326 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\main.cpp
+	"Principal.h"
+	<iostream>
+
+1309217633 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\grafoobjeto.cpp
+	"GrafoObjeto.h"
+	"Principal.h"
+
+1304199662 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\grafoobjeto.h
+	<Irrlicht.h>
+	<iostream>
+
+1310624670 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\mouse.cpp
+	"Mouse.h"
+
+1308977264 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\mouse.h
+	<irrlicht.h>
+	"Principal.h"
+
+1310625547 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\principal.cpp
+	"Principal.h"
+
+1310602448 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\principal.h
+	<iostream>
+	<Irrlicht.h>
+	<sstream>
+	"Mouse.h"
+	"MenuEditar.h"
+	"GrafoObjeto.h"
+	<vector>
+	<list>
+	"Vertice.h"
+	"Grafo.h"
+	"Detalhes.h"
+	"Algoritmos.h"
+	"AnimationPlayer.h"
+
+1310624463 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\vertice.cpp
+	"Vertice.h"
+
+1309997108 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\vertice.h
+	<Irrlicht.h>
+	<math.h>
+	"Principal.h"
+	"GrafoObjeto.h"
+	"Aresta.h"
+
+1302740620 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\global.h
+
+1310520830 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\aresta.h
+	<Irrlicht.h>
+	"GrafoObjeto.h"
+	"Vertice.h"
+
+1310625087 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\aresta.cpp
+	"Aresta.h"
+
+1310625090 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\menueditar.cpp
+	"MenuEditar.h"
+	"Vertice.h"
+
+1308929297 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\menueditar.h
+	<iostream>
+	<Irrlicht.h>
+	<sstream>
+	"GrafoObjeto.h"
+	<list>
+
+1310868642 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\grafo.h
+	<iostream>
+	<Irrlicht.h>
+	<sstream>
+	"GrafoObjeto.h"
+	<vector>
+	<list>
+	"Vertice.h"
+	"Aresta.h"
+	"Grafo.h"
+	"Algoritmos.h"
+	"Animacao.h"
+
+1310868659 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\grafo.cpp
+	<stack>
+	"Grafo.h"
+
+1309985660 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\detalhes.h
+	<iostream>
+	<Irrlicht.h>
+	"GrafoObjeto.h"
+	<list>
+	"Vertice.h"
+	"Aresta.h"
+
+1310868062 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\detalhes.cpp
+	"Detalhes.h"
+
+1310617741 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\algoritmos.cpp
+	"Dijkstra.h"
+	"Kruskal.h"
+	"Prim.h"
+	"BFS.h"
+	"Floyd.h"
+	"BuscaProfundidade.h"
+	"Algoritmos.h"
+
+1310529472 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\algoritmos.h
+	<list>
+	"GrafoObjeto.h"
+	<iostream>
+	"Animacao.h"
+	"Vertice.h"
+
+1310601556 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\animacao.h
+	<iostream>
+	<Irrlicht.h>
+	"GrafoObjeto.h"
+	<vector>
+	"GrafoObjeto.h"
+
+1310622037 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\animacao.cpp
+	"Animacao.h"
+	"Principal.h"
+
+1310611639 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\buscaprofundidade.cpp
+	"BuscaProfundidade.h"
+
+1309997012 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\buscaprofundidade.h
+	"Algoritmos.h"
+	<stack>
+
+1310513536 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\buscalargura.cpp
+
+1310513528 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\buscalargura.h
+
+1310617456 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\dijkstra.h
+	"Algoritmos.h"
+
+1310617877 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\dijkstra.cpp
+	"Dijkstra.h"
+
+1310517943 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\kruskal.h
+	"Algoritmos.h"
+	"Principal.h"
+
+1310095571 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\kruskal.cpp
+	"Kruskal.h"
+	<vector>
+
+1310517933 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\prim.h
+	"Algoritmos.h"
+
+1310867858 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\prim.cpp
+	"Prim.h"
+
+1310621352 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\bfs.cpp
+	"BFS.h"
+
+1310519125 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\bfs.h
+	"Algoritmos.h"
+
+1310617460 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\floyd.h
+	"Algoritmos.h"
+
+1310617480 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\floyd.cpp
+	"Floyd.h"
+
+1310622491 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\animationplayer.h
+	<irrlicht.h>
+	"Animacao.h"
+
+1310623711 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\grafos\animationplayer.cpp
+	"AnimationPlayer.h"
+	"Principal.h"
+

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Grafos" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="Grafos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="C:\Documents and Settings\Usuario\Meus documentos\Gui\Programas\CodeBlocks 10\Projetos\Grafos\.objs" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="Grafos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="C:\Documents and Settings\Usuario\Meus documentos\Gui\Programas\CodeBlocks 10\Projetos\Grafos\.objs" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Algoritmos.cpp" />
+		<Unit filename="Algoritmos.h" />
+		<Unit filename="Animacao.cpp" />
+		<Unit filename="Animacao.h" />
+		<Unit filename="AnimationPlayer.cpp" />
+		<Unit filename="AnimationPlayer.h" />
+		<Unit filename="Aresta.cpp" />
+		<Unit filename="Aresta.h" />
+		<Unit filename="BFS.cpp" />
+		<Unit filename="BFS.h" />
+		<Unit filename="BuscaProfundidade.cpp" />
+		<Unit filename="BuscaProfundidade.h" />
+		<Unit filename="Detalhes.cpp" />
+		<Unit filename="Detalhes.h" />
+		<Unit filename="Dijkstra.cpp" />
+		<Unit filename="Dijkstra.h" />
+		<Unit filename="Floyd.cpp" />
+		<Unit filename="Floyd.h" />
+		<Unit filename="Grafo.cpp" />
+		<Unit filename="Grafo.h" />
+		<Unit filename="GrafoObjeto.cpp" />
+		<Unit filename="GrafoObjeto.h" />
+		<Unit filename="Kruskal.cpp" />
+		<Unit filename="Kruskal.h" />
+		<Unit filename="MenuEditar.cpp" />
+		<Unit filename="MenuEditar.h" />
+		<Unit filename="Mouse.cpp" />
+		<Unit filename="Mouse.h" />
+		<Unit filename="Prim.cpp" />
+		<Unit filename="Prim.h" />
+		<Unit filename="Principal.cpp" />
+		<Unit filename="Principal.h" />
+		<Unit filename="Vertice.cpp" />
+		<Unit filename="Vertice.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
